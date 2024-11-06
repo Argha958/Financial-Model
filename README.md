@@ -1,4 +1,4 @@
-# Financial-Model
+# Financial-Modeling
 **Express Fiji Highway Project**:
 Overview: Express Fiji is a public-private infrastructure project to build and operate a highway in a Fijian city. Awarded in 2023, the 40-year concession involves a 4-year construction phase followed by 36 years of operation. This project aims to support regional connectivity and boost economic growth by providing a reliable toll-based highway infrastructure.
 
